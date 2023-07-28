@@ -1,0 +1,3 @@
+enum AdobeEventType{
+  action,state
+}
